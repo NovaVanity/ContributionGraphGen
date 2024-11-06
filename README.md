@@ -1,6 +1,6 @@
 # GitHub Contribution Graph Generator
 
-A desktop application that allows you to design and generate custom GitHub contribution patterns by creating real commits with specified dates and frequencies.
+A desktop application that allows you to design and generate custom GitHub contribution patterns by creating real commits with specified dates and frequencies. Made for fun, probably has a lot of bugs
 
 ![image](https://github.com/user-attachments/assets/f441a18c-12db-4444-8f29-e66db8360364)
 
@@ -30,3 +30,6 @@ A desktop application that allows you to design and generate custom GitHub contr
 ```bash
 git clone https://github.com/username/github-contribution-generator.git
 cd github-contribution-generator
+```
+2. Become a Github contribution pro:
+Feel yourself become one with the code.
