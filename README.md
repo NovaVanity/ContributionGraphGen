@@ -2,7 +2,8 @@
 
 A desktop application that allows you to design and generate custom GitHub contribution patterns by creating real commits with specified dates and frequencies.
 
-![GitHub Contribution Graph Generator]
+![image](https://github.com/user-attachments/assets/388f7401-11e0-44a4-aad4-493ad28b1589)
+
 
 ## Features
 
