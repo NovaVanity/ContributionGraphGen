@@ -32,4 +32,5 @@ git clone https://github.com/username/github-contribution-generator.git
 cd github-contribution-generator
 ```
 2. Become a Github contribution pro:
+
 Feel yourself become one with the code.
