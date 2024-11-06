@@ -2,7 +2,8 @@
 
 A desktop application that allows you to design and generate custom GitHub contribution patterns by creating real commits with specified dates and frequencies.
 
-![image](https://github.com/user-attachments/assets/388f7401-11e0-44a4-aad4-493ad28b1589)
+![image](https://github.com/user-attachments/assets/f441a18c-12db-4444-8f29-e66db8360364)
+
 
 
 ## Features
