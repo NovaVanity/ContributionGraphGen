@@ -31,5 +31,4 @@ A desktop application that allows you to design and generate custom GitHub contr
 git clone https://github.com/username/github-contribution-generator.git
 cd github-contribution-generator
 ```
-2. Become a Github contribution pro:
-  Feel yourself become one with the code.
+2. Feel yourself become one with the code gods
